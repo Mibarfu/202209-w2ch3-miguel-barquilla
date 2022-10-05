@@ -1,6 +1,0 @@
-Buen trabajo, Miguel.
-Lo único que restaría por añadir es que el usuario pueda ingresar los números a calcular a través de prompt, y no escribiendo directamente sobre el código. 
-Cambia esto y te lo paso a DONE.
-
-Otra observación: intentaremos evitar los comentarios, la idea es que con un buen naming de variables 
-y un código bien ordenado el código se pueda entender por si solo.
