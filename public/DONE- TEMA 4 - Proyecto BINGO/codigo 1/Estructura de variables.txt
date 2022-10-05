@@ -1,0 +1,44 @@
+Formato array cartonEnJuego:
+    
+    [ <Array de objetos lineas> 
+        { <Objeto de linea>
+            linea : [ <array de objetos numeros>
+                    {valor : 1-90, ok : false/true},
+                        .
+                        .
+                        .
+                    ]
+            completa : false/true 
+        },
+            .
+            .
+            .
+    ]
+	
+	
+Formato usuarioEnJuego:
+
+	{
+		nombre : nuevoNombre,
+		puntos : 0,
+		aciertosNumeros : 0,
+		lineasCompletas : 0,
+		turnosFallidos : 0,
+		bingo : false
+	}
+ 
+
+Formato usuarios
+	[    
+		{ Este obeto es igual al 'usuarioEnJuego'
+			nombre : nuevoNombre,
+			puntos : 0,
+			aciertosNumeros : 0,
+			lineasCompletas : 0,
+			turnosFallidos : 0,
+			bingo : false
+		}
+		.
+		.
+		.
+	]
