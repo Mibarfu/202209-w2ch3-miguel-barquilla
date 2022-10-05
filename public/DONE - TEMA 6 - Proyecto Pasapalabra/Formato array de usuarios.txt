@@ -1,0 +1,14 @@
+/*
+    [
+        {
+            nombre: "Pedro",
+            puntuacion: 56,
+            acertados: 15,
+            fallos: 12,
+            tiempo sobrante: 23;
+        }
+        .
+        .
+        .
+    ]
+*/
